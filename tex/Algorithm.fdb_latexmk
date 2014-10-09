@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1409127232 "Algorithm.tex" "Algorithm.pdf" "Algorithm" 1409127233
+["pdflatex"] 1412875351 "Algorithm.tex" "Algorithm.pdf" "Algorithm" 1412875352
   "/usr/local/texlive/2014/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/ifxetex/ifxetex.sty" 1284331290 1458 43ab4710dc82f3edeabecd0d099626b2 ""
   "/usr/local/texlive/2014/texmf-dist/tex/generic/oberdiek/gettitlestring.sty" 1303254447 8237 52810bdb4db2270e717422560a104aea ""
@@ -105,9 +105,9 @@
   "/usr/local/texlive/2014/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/wrapfig/wrapfig.sty" 1137111090 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "/usr/local/texlive/2014/texmf-dist/tex/latex/xcolor/xcolor.sty" 1169481954 55224 a43bab84e0ac5e6efcaf9a98bde73a94 ""
-  "Algorithm.aux" 1409127233 1813 bd58bfd85a8bebf21232ecf2b6e17bef ""
-  "Algorithm.out" 1409127233 190 d986e9675ea4d6099252e08f9e6da669 ""
-  "Algorithm.tex" 1409127230 7283 65ba4235c0ac3bee4f15a77ffec66263 ""
+  "Algorithm.aux" 1412875352 1689 564d819da6562f8927952e0523c32185 ""
+  "Algorithm.out" 1412875352 190 d986e9675ea4d6099252e08f9e6da669 ""
+  "Algorithm.tex" 1412875348 10083 7fa7a5f7044fc8f89f42d0e2a56adcfe ""
   "add_case-eps-converted-to.pdf" 1409126273 16111 9eb571623291da6940a732a10f76a0b6 ""
   "add_case.eps" 1409120586 69535 f4ece03545de9e9ce647bfb9560a7538 ""
   "original-eps-converted-to.pdf" 1409126270 16076 70ca89869a7fa003694afe5ef51f3752 ""
@@ -117,8 +117,8 @@
   (generated)
   "Algorithm.aux"
   "Algorithm.log"
-  "add_case-eps-converted-to.pdf"
   "original-eps-converted-to.pdf"
+  "add_case-eps-converted-to.pdf"
   "Algorithm.out"
   "Algorithm.pdf"
   "quick_example-eps-converted-to.pdf"

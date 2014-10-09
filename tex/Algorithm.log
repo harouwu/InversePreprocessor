@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.8.7)  27 AUG 2014 04:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.8.7)  10 OCT 2014 01:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -798,7 +798,37 @@ LaTeX Font Info:    Try loading font information for U+stmry on input line 45.
 (/usr/local/texlive/2014/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
 Package xypdf Info: Line width: 0.43799pt on input line 45.
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--58
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 59--65
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--69
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--76
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 80--82
 
  []
 
@@ -806,101 +836,102 @@ Package microtype Info: Loading generic settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<xymatrix 2x2 141> [1
 
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 82--84
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
 
  []
 
+[1
+
+{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2014/03/04 1.5c listings language file
 )
 (/usr/local/texlive/2014/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2014/03/04 1.5c (Carsten Heinz)
 )
-Underfull \hbox (badness 10000) in paragraph at lines 103--107
+Underfull \hbox (badness 10000) in paragraph at lines 140--144
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 108--109
+Underfull \hbox (badness 10000) in paragraph at lines 145--146
 
  []
 
 Package epstopdf Info: Source file: <quick_example.eps>
-(epstopdf)                    date: 2014-08-27 03:27:26
+(epstopdf)                    date: 2014-08-27 15:27:26
 (epstopdf)                    size: 87777 bytes
 (epstopdf)             Output file: <quick_example-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-08-27 03:27:34
+(epstopdf)                    date: 2014-08-27 15:27:34
 (epstopdf)                    size: 19757 bytes
 (epstopdf)             Command: <repstopdf --outfile=quick_example-eps-converte
 d-to.pdf quick_example.eps>
-(epstopdf)             \includegraphics on input line 112.
+(epstopdf)             \includegraphics on input line 153.
 Package epstopdf Info: Output file is already uptodate.
-<quick_example-eps-converted-to.pdf, id=34, 466.74374pt x 391.4625pt>
+<quick_example-eps-converted-to.pdf, id=27, 466.74374pt x 391.4625pt>
 File: quick_example-eps-converted-to.pdf Graphic file (type pdf)
 
 <use quick_example-eps-converted-to.pdf>
 Package pdftex.def Info: quick_example-eps-converted-to.pdf used on input line 
-112.
+153.
 (pdftex.def)             Requested size: 256.0748pt x 214.77939pt.
 Package hyperref Info: bookmark level for unknown algorithm defaults to 0 on in
-put line 119.
+put line 160.
  [2 <./quick_example-eps-converted-to.pdf>]
 Package epstopdf Info: Source file: <original.eps>
-(epstopdf)                    date: 2014-08-27 02:23:18
+(epstopdf)                    date: 2014-08-27 14:23:18
 (epstopdf)                    size: 69363 bytes
 (epstopdf)             Output file: <original-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-08-27 03:57:50
+(epstopdf)                    date: 2014-08-27 15:57:50
 (epstopdf)                    size: 16076 bytes
 (epstopdf)             Command: <repstopdf --outfile=original-eps-converted-to.
 pdf original.eps>
-(epstopdf)             \includegraphics on input line 135.
+(epstopdf)             \includegraphics on input line 176.
 Package epstopdf Info: Output file is already uptodate.
- <original-eps-converted-to.pdf, id=62, 509.905pt x 470.75874pt>
+ <original-eps-converted-to.pdf, id=56, 509.905pt x 470.75874pt>
 File: original-eps-converted-to.pdf Graphic file (type pdf)
 
 <use original-eps-converted-to.pdf>
-Package pdftex.def Info: original-eps-converted-to.pdf used on input line 135.
+Package pdftex.def Info: original-eps-converted-to.pdf used on input line 176.
 (pdftex.def)             Requested size: 256.0748pt x 236.42754pt.
 Package epstopdf Info: Source file: <add_case.eps>
-(epstopdf)                    date: 2014-08-27 02:23:06
+(epstopdf)                    date: 2014-08-27 14:23:06
 (epstopdf)                    size: 69535 bytes
 (epstopdf)             Output file: <add_case-eps-converted-to.pdf>
-(epstopdf)                    date: 2014-08-27 03:57:53
+(epstopdf)                    date: 2014-08-27 15:57:53
 (epstopdf)                    size: 16111 bytes
 (epstopdf)             Command: <repstopdf --outfile=add_case-eps-converted-to.
 pdf add_case.eps>
-(epstopdf)             \includegraphics on input line 141.
+(epstopdf)             \includegraphics on input line 182.
 Package epstopdf Info: Output file is already uptodate.
 
-<add_case-eps-converted-to.pdf, id=63, 509.905pt x 470.75874pt>
+<add_case-eps-converted-to.pdf, id=57, 509.905pt x 470.75874pt>
 File: add_case-eps-converted-to.pdf Graphic file (type pdf)
 
 <use add_case-eps-converted-to.pdf>
-Package pdftex.def Info: add_case-eps-converted-to.pdf used on input line 141.
+Package pdftex.def Info: add_case-eps-converted-to.pdf used on input line 182.
 (pdftex.def)             Requested size: 256.0748pt x 236.42754pt.
  [3 <./original-eps-converted-to.pdf>]
 [4 <./add_case-eps-converted-to.pdf>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 188.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 229.
  [5]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 188.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 229.
  (./Algorithm.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 188.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 188.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 229.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 229.
 Package rerunfilecheck Info: File `Algorithm.out' has not changed.
 (rerunfilecheck)             Checksum: D986E9675EA4D6099252E08F9E6DA669;190.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 188.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 229.
  ) 
 Here is how much of TeX's memory you used:
- 15995 strings out of 493117
+ 15991 strings out of 493117
  235795 string characters out of 6135434
- 439973 words of memory out of 5000000
- 19089 multiletter control sequences out of 15000+600000
- 16138 words of font info for 83 fonts, out of 8000000 for 9000
+ 439308 words of memory out of 5000000
+ 19072 multiletter control sequences out of 15000+600000
+ 16548 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 36i,16n,51p,3252b,1350s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 36i,6n,51p,3252b,1350s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
@@ -911,15 +942,11 @@ sr/local/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr
 ocal/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/loca
 l/texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local
 /texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/
-texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/te
-xlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/tex
-live/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texli
-ve/2014/texmf-dist/fonts/type1/public/xypic/xyatip10.pfb></usr/local/texlive/20
-14/texmf-dist/fonts/type1/public/xypic/xybtip10.pfb>
-Output written on Algorithm.pdf (5 pages, 192056 bytes).
+texlive/2014/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on Algorithm.pdf (5 pages, 179843 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 120 compressed objects within 2 object streams
- 25 named destinations out of 1000 (max. 500000)
+ 137 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 24 named destinations out of 1000 (max. 500000)
  15400 words of extra memory for PDF output out of 17280 (max. 10000000)
 
